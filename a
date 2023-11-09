@@ -1,0 +1,40 @@
+[33mcommit 7673a87ccf63b653c0b07e2cffa542143264a9ea[m[33m ([m[1;36mHEAD -> [m[1;32mMatthew_Bellman[m[33m, [m[1;31morigin/main[m[33m, [m[1;31morigin/Matthew_Bellman[m[33m, [m[1;31morigin/HEAD[m[33m, [m[1;32mmain[m[33m)[m
+Merge: c0c5d4a 290df74
+Author: [1;31mBellMatt38[m <115511313+[1;31mBellMatt38[m@users.noreply.github.com>
+Date:   Thu Oct 19 11:36:03 2023 -0700
+
+    Merge branch 'Matthew_Bellman'
+
+[33mcommit 290df74a8e15f38eb2fbdc7a94c884df53c9f146[m
+Merge: f95aa71 9f28d9d
+Author: [1;31mBellMatt38[m <115511313+[1;31mBellMatt38[m@users.noreply.github.com>
+Date:   Thu Oct 19 11:34:44 2023 -0700
+
+    Merge branch 'main' into Matthew_Bellman
+
+[33mcommit f95aa71eade09fbd1fe3c15e1ab1a6392ca388e8[m
+Author: [1;31mBellMatt38[m <115511313+[1;31mBellMatt38[m@users.noreply.github.com>
+Date:   Thu Oct 19 11:30:32 2023 -0700
+
+    Create Matthew_Bellman_Test_File.txt
+
+[33mcommit f3cf3a47694f85855aa0a0de4babdb6bcacde061[m
+Author: [1;31mBellMatt38[m <115511313+[1;31mBellMatt38[m@users.noreply.github.com>
+Date:   Thu Oct 19 10:08:27 2023 -0700
+
+    Update member_list.txt
+    
+    Added my name
+
+[33mcommit 36271fcde11dccd82c98a18d1f497f3a091c12bd[m
+Merge: 228cab7 c9de9df
+Author: [1;31mBellMatt38[m <115511313+[1;31mBellMatt38[m@users.noreply.github.com>
+Date:   Thu Oct 19 10:03:06 2023 -0700
+
+    Merge branch 'main' of https://github.com/luis-pad/COMP-490-Practice
+
+[33mcommit 228cab7c3fcf3183ae76d05d0648da6d7becc620[m
+Author: [1;31mBellMatt38[m <115511313+[1;31mBellMatt38[m@users.noreply.github.com>
+Date:   Thu Oct 19 10:02:35 2023 -0700
+
+    Create Matthew_Bellman.txt
